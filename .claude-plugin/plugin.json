@@ -1,0 +1,23 @@
+{
+  "name": "cianbox-api",
+  "version": "0.1.0",
+  "description": "Skill de referencia completa de la API REST v2 de Cianbox (plataforma argentina de gestion comercial y e-commerce). Incluye productos, clientes, pedidos, ventas, stock, remitos internos, MercadoLibre, webhooks y autenticacion.",
+  "author": {
+    "name": "Gabriel - rpdigital",
+    "email": "gabriel@rpdigital.com.ar",
+    "url": "https://rpdigital.com.ar"
+  },
+  "homepage": "https://github.com/erpwoosync/cianbox-api-plugin-skill",
+  "repository": "https://github.com/erpwoosync/cianbox-api-plugin-skill",
+  "license": "MIT",
+  "keywords": [
+    "cianbox",
+    "api",
+    "erp",
+    "e-commerce",
+    "argentina",
+    "mercadolibre",
+    "integracion",
+    "skill"
+  ]
+}
