@@ -1,0 +1,36 @@
+{
+  "name": "cianbox-api-plugin-skill",
+  "description": "Marketplace de Claude Code con el plugin cianbox-api (referencia completa de la API REST v2 de Cianbox).",
+  "owner": {
+    "name": "erpwoosync",
+    "url": "https://github.com/erpwoosync"
+  },
+  "plugins": [
+    {
+      "name": "cianbox-api",
+      "description": "Skill de referencia completa de la API REST v2 de Cianbox: productos, clientes (+ categorias + cuenta corriente), pedidos, ventas (con 9 casos de uso para el alta), stock (remitos internos), MercadoLibre, webhooks y autenticacion.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Gabriel - rpdigital",
+        "email": "gabriel@rpdigital.com.ar",
+        "url": "https://rpdigital.com.ar"
+      },
+      "homepage": "https://github.com/erpwoosync/cianbox-api-plugin-skill",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/erpwoosync/cianbox-api-plugin-skill"
+      },
+      "license": "MIT",
+      "source": ".",
+      "keywords": [
+        "cianbox",
+        "api",
+        "erp",
+        "e-commerce",
+        "argentina",
+        "mercadolibre",
+        "integracion"
+      ]
+    }
+  ]
+}
